@@ -1,0 +1,6 @@
+name: rBans
+main: io.github.ryanpereiras.rBans
+version:  1.0
+commands:
+  ban:
+  unban:

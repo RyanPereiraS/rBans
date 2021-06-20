@@ -1,0 +1,10 @@
+MySQL:
+  enable: false #CHANGE TO true
+  host: 'localhost'
+  username: ''
+  password: ''
+  database: ''
+  port: 3306
+message:
+  ban_message: '&a&lPUNISH<line><line>&fVoce foi banido &a&lPERMANENTEMENTE &fdo servidor<line>&fPelo staff &a%staff%<line>&fMotivo &a%motivo%<line>&fCompre unban em &awww.piritacraft.net<line>&fBanimento injusto? &ahttps://discord.gg/7xQPaAR'
+  join_ban: '&a&lPUNISH<line><line>&fVoce esta banido &a&lPERMANENTEMENTE &fdo servidor<line>&fPelo staff &a%staff%<line>&fMotivo &a%motivo%<line>&fCompre unban em &awww.piritacraft.net<line>&fBanimento injusto? &ahttps://discord.gg/7xQPaAR'
